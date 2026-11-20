@@ -10,7 +10,7 @@ Client-side helpers for PvP, each with its own switch in Options > Mods > Fluxxy
 - **Food info**: your saturation as a gold outline over the hunger bar, and a thin bar above it that fills as the next
   hunger point gets close to going (exhaustion).
 - **Elytra pitch**: while gliding, the angle you look at under the crosshair.
-- **Armor HUD**: your armour and its durability in slots left of the hotbar (only drawn, never clickable).
+- **Armor HUD**: the armour you wear and its durability in slots left of the hotbar (only drawn, never clickable).
 - **Item counters**: golden apples, ender pearls, totems, arrows, potions and cobwebs you carry, bottom right.
 - **Damage indicator**: how many hearts a hit took, above your hearts, for a moment.
 
@@ -33,5 +33,5 @@ version = "1.0.0"
 published = "2026-11-20"
 game = "26.3"
 file = "https://github.com/fluxxy33/fluxxy-pvp-pack/releases/download/1.0.0/fluxxy_pvp-1.0.0.hmod"
-sha256 = "f223798a78dbfb4afe168279aafbf82c01d4808f83c9aefe26dbafcf17c5a6f5"
+sha256 = "f51fd4fc3e31169a6d6235e47457101c85a45dd74520744ef7847aefc4ff278e"
 changelog = "First version: low fire, food info, elytra pitch, armour HUD, item counters and damage indicator."
