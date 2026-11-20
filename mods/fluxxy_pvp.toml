@@ -34,6 +34,6 @@ tags = ["pvp", "hud", "fire", "hunger", "saturation", "elytra", "armor", "counte
 version = "1.0.0"
 published = "2026-11-20"
 game = "26.3"
-file = "https://github.com/fluxxy33/fluxxy-pvp-pack/releases/download/1.0.0/fluxxy_pvp-1.0.0.hmod"
+file = "fluxxy_pvp-1.0.0.hmod"
 sha256 = "437aa0fccaf9d39f56d7c3bfaa0b5dd98af56735e9de5a9cbe0848507b77d61c"
 changelog = "First version: low fire, food info, elytra pitch, armour HUD, item counters and damage indicator."
