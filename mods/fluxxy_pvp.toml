@@ -7,7 +7,9 @@ Client-side helpers for PvP, each with its own switch in Options > Mods > Fluxxy
 
 - **Low fire**: while you burn, the fire overlay is drawn lower on the screen, so it hides less of the view (Low,
   Lower or Lowest).
-- **Food info**: AppleSkin's saturation outlines over the hunger bar and its exhaustion bar under it.
+- **Food info**, as AppleSkin shows it: the saturation outlines over the hunger bar and the exhaustion bar under it,
+  both from the server; with food in hand, the hunger, saturation and hearts eating it would give, flashing; a food's
+  hunger and saturation in its tooltip. The exhaustion bar needs the mod on the server too (single player has it).
 - **Elytra pitch**: while gliding, the angle you look at under the crosshair.
 - **Armor HUD**: the armour you wear and its durability in slots left of the hotbar (only drawn, never clickable).
 - **Item counters**: golden apples, ender pearls, totems, arrows, potions and cobwebs you carry, bottom right.
@@ -33,5 +35,5 @@ version = "1.0.0"
 published = "2026-11-20"
 game = "26.3"
 file = "https://github.com/fluxxy33/fluxxy-pvp-pack/releases/download/1.0.0/fluxxy_pvp-1.0.0.hmod"
-sha256 = "97b56b41ea77b52294ce747e18cd97b2eaf13a5d57b63baeb41b1586cffec8d0"
+sha256 = "437aa0fccaf9d39f56d7c3bfaa0b5dd98af56735e9de5a9cbe0848507b77d61c"
 changelog = "First version: low fire, food info, elytra pitch, armour HUD, item counters and damage indicator."
