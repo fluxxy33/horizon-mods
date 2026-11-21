@@ -27,6 +27,7 @@ owner_ids = [217227875]
 license = "MIT"
 source = "https://github.com/fluxxy33/fluxxy-pvp-pack"
 icon = "icons/fluxxy_pvp.png"
+key = "RWQnIFtA7/srIncsnAajOFynZXh4zjq4YeCe/WPETz7FaDl6TzCVvf55"
 categories = ["utility"]
 tags = ["pvp", "hud", "fire", "hunger", "saturation", "elytra", "armor", "counter"]
 
@@ -36,4 +37,9 @@ published = "2026-11-20"
 game = "26.3"
 file = "fluxxy_pvp-1.0.0.hmod"
 sha256 = "437aa0fccaf9d39f56d7c3bfaa0b5dd98af56735e9de5a9cbe0848507b77d61c"
+signature = """
+untrusted comment: signature from minisign secret key
+RUQnIFtA7/srIiZZMxsEl7zqKt8UlxT0XRMt6/i63/+EYj+u/G/Ie07oAmUf+BE7Sajgli00P7u4ywG88KrV2gC4SJnn0YzhigU=
+trusted comment: timestamp:1795268093	file:fluxxy_pvp-1.0.0.hmod	hashed
+SgVfVxq7JG3CJFXSGlaUsuGQcCLPwLTOvjpYWrNtWLCS6Nhs19LxAoI3Deen9mrk0cby5HQQx+7XkhXo9IJKBQ=="""
 changelog = "First version: low fire, food info, elytra pitch, armour HUD, item counters and damage indicator."
