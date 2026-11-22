@@ -1,0 +1,37 @@
+id = "fluxxy_shader"
+kind = "shaderpack"
+name = "Fluxxy Shader (Chocapic13' Shaders edit)"
+summary = "An edit of Bliss where every dimension has its own look: a violet End with auroras and a nebula, a scorched Nether with embers."
+description = """
+An edit of [Bliss](https://github.com/X0nk/Bliss-Shader) by X0nk, itself an edit of
+[Chocapic13' Shaders](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) by Chocapic13, for Iris-format
+shader packs.
+
+- **The End**: violet light, auroras, a nebula, twinkling stars, a slow void pulse.
+- **The Nether**: a scorched look with heat haze and rising embers.
+- **The Overworld**: a warmer look, AgX tonemapping, contrast adaptive sharpening and light fog.
+- **End Awakening's Dawn**: pastel light with pink and gold auroras, when that mod is installed.
+
+Options are under the "Fluxxy Shader" screen.
+
+All credit for the base shader goes to Chocapic13 and to the Bliss contributors listed in the pack's CREDITS.txt. The
+Overworld and Nether look is inspired by the Iteration shader pack and written from scratch: no code of Iteration is in
+the pack. This edit is shared under Chocapic13's rules, copied in its LICENSE.md: no monetizing links, Chocapic13
+clearly credited, the same rules for any further edit.
+"""
+authors = ["fluxxy33", "X0nk", "Chocapic13"]
+owners = ["fluxxy33"]
+owner_ids = [217227875]
+license = "LicenseRef-Chocapic13-Shaders"
+source = "https://github.com/fluxxy33/fluxxy-shader"
+icon = "icons/fluxxy_shader.png"
+categories = ["fantasy", "atmosphere", "shadows"]
+tags = ["end", "nether", "aurora", "bliss", "chocapic13", "iris"]
+
+[[versions]]
+version = "1.0.0"
+published = "2026-11-22"
+game = "26.3"
+file = "fluxxy_shader-1.0.0.zip"
+sha256 = "43d6274fc89004adeed2f92fafa1b270fc6c41bf1150534b8e2863acbf34ea6b"
+changelog = "First version."
