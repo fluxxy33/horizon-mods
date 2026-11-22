@@ -25,6 +25,7 @@ owner_ids = [217227875]
 license = "LicenseRef-Chocapic13-Shaders"
 source = "https://github.com/fluxxy33/fluxxy-shader"
 icon = "icons/fluxxy_shader.png"
+key = "RWQnIFtA7/srIncsnAajOFynZXh4zjq4YeCe/WPETz7FaDl6TzCVvf55"
 categories = ["fantasy", "atmosphere", "shadows"]
 tags = ["end", "nether", "aurora", "bliss", "chocapic13", "iris"]
 
@@ -34,4 +35,9 @@ published = "2026-11-22"
 game = "26.3"
 file = "fluxxy_shader-1.0.0.zip"
 sha256 = "43d6274fc89004adeed2f92fafa1b270fc6c41bf1150534b8e2863acbf34ea6b"
+signature = """
+untrusted comment: signature from minisign secret key
+RUQnIFtA7/srIgqZOE2OSpspAXZTT3myTpLhGGEdrO8sUqhmnPd4aYE5CyvY4P56hjaM9izfmfNEE/tJK21DjKOHlYyc8DSqbQQ=
+trusted comment: timestamp:1795359854	file:fluxxy_shader-1.0.0.zip	hashed
+zIz6LiMAlTzwW0LL+59SgvXeY73nSI2qQw+5lmIkS6asefXqIuim1Df6dLiifRUyQu9AcDzLeGO2gtHcSrYtAQ=="""
 changelog = "First version."
