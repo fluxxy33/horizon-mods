@@ -32,6 +32,19 @@ categories = ["utility"]
 tags = ["pvp", "hud", "fire", "hunger", "saturation", "elytra", "armor", "counter"]
 
 [[versions]]
+version = "1.0.1"
+published = "2026-11-22"
+game = "26.3"
+file = "fluxxy_pvp-1.0.1.hmod"
+sha256 = "0c765746ebdfc8737495861af2ea93c4e15cc0c7b3df4049f2fa7047b47bab1b"
+signature = """
+untrusted comment: signature from minisign secret key
+RUQnIFtA7/srIrQDRaxDz1QyxMDdg/7d+MZuobDUwLHyuJBUE68fVzyn9sjtK5FchyTcHSgf7cSNduWvZgCIuyDYzr9U/7WAcwo=
+trusted comment: timestamp:1795339964	file:fluxxy_pvp-1.0.1.hmod	hashed
+WoJ85k7OYY+3RjFMeue6IQ9xabfp3QXqv9ApaMTvsPkuDUySop09bQKtZTRdSPz98i6LWglEwxmF8MI2I/kECA=="""
+changelog = "The health estimate ends on a food with next to no saturation (a data pack's), where it could loop until the sandbox stopped the mod."
+
+[[versions]]
 version = "1.0.0"
 published = "2026-11-20"
 game = "26.3"
